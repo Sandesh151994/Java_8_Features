@@ -22,6 +22,7 @@ public class Test {
 		Demo d2	=()->{
 			System.out.println("Hi Guys");
 			System.out.println("Nothing New");
+			System.err.println("Error");
 		};
 
 	}
